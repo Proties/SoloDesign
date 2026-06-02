@@ -158,6 +158,7 @@ main {
     width: 45%;
     height: 45rem;
     overflow: scroll;
+    border-radius: 40px;
 }
 
 .project-image-container img {

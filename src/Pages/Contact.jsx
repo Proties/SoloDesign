@@ -2,7 +2,7 @@ import ShinyText from "../Components/ReactBits/ShinyText"
 import DecryptedText from "../Components/ReactBits/DecryptedText"
 import ScrollVelocity from "../Components/ReactBits/ScrollVelocity"
 
-import Solo from "../assets/Solo.jpeg"
+import Solo from "../assets/Solo.webp"
 import Email from "../assets/Email.png"
 import Instagram from "../assets/Instagram.png"
 

@@ -2,13 +2,13 @@ import { Link } from "react-router-dom"
 
 import ShinyText from "../Components/ReactBits/ShinyText"
 
-import Cover1 from '../assets/Building_Billboard_Mockup 2.png'
-import Port1 from '../assets/AXIS.jpg.jpeg'
-import Port2 from '../assets/AXIS_BOTTLE.png'
-import Port3 from '../assets/Building_Billboard_Mockup 2.png'
-import Port4 from '../assets/signboard.png'
+import Cover1 from '../assets/Building_Billboard_Mockup 1.webp'
+import Port1 from '../assets/AXIS.jpg.webp'
+import Port2 from '../assets/AXIS_BOTTLE.webp'
+import Port3 from '../assets/Building_Billboard_Mockup 1.webp'
+import Port4 from '../assets/signboard.webp'
 
-import Cover2 from '../assets/banner.png'
+import Cover2 from '../assets/banner.webp'
 
 import '../App.css'
 

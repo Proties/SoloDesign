@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import ShinyText from "../Components/ReactBits/ShinyText"
-import Cover1 from '../assets/Building_Billboard_Mockup 2.png'
-import Cover2 from '../assets/banner.png'
+import Cover1 from '../assets/Building_Billboard_Mockup 1.webp'
+import Cover2 from '../assets/banner.webp'
 import DecryptedText from "../Components/ReactBits/DecryptedText"
 import ScrollVelocity from "../Components/ReactBits/ScrollVelocity"
 
