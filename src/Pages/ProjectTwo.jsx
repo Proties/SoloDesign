@@ -37,7 +37,12 @@ function ProjectTwo() {
                             color="#b35900"
                             spread={120}
                         /></h2>
-                        <p>dankie</p>
+                        <p>NeuroHome is a smart home technology brand designed to bring
+                            convenience, automation, and control into everyday living.
+                            The project focused on creating a clean, modern visual identity
+                            that communicates innovation, simplicity, and trust, supported by
+                            brand applications that showcase the product in real-world
+                            environments.</p>
                         <div className='project-label-container'>
                             <div className='service-label'>
                                 <h3><ShinyText
